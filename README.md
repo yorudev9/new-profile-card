@@ -4,10 +4,10 @@ O objetivo era criar um cartão de perfil simples com algumas informações.
 Esse projeto inicialmente foi baseado em um exercício do Frontend Mentor, mas optei por fazê-lo mais próximo do [exercício original](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
 ## Projeto antigo
-![preview-projeto-antigo](./.github/preview.png)
+![preview-projeto-antigo](./.github/old-preview.png)
 
 ## Projeto novo
-![preview-projeto-novo](./.github/preview.png)
+![preview-projeto-novo](./.github/new-preview.png)
 
 ## 🔧 Tecnologias
 
